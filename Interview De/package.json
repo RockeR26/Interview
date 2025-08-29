@@ -1,0 +1,19 @@
+{
+  "name": "paginated-table-delloite",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Sagnik",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
